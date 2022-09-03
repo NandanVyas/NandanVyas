@@ -1,4 +1,5 @@
-## Hey,  I'm [Nandan Vyas!](https://NandanVyas.github.io)
+<h2> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Nandan Vyas </h2>
+<!-- ## Hey,  I'm [Nandan Vyas!](https://NandanVyas.github.io) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nv-nandanvyas/)](https://www.linkedin.com/in/nv-nandanvyas/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nandanvyas_/)](https://www.instagram.com/nandanvyas_/)
