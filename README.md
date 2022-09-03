@@ -2,15 +2,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nv-nandanvyas/)](https://www.linkedin.com/in/nv-nandanvyas/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nandanvyas_/)](https://www.instagram.com/nandanvyas_/)
-<a href="mailto:nv.nandanvyas@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" width="110" /></a>
+<a href="mailto:nv.nandanvyas@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" width="100" style=" border-radius: 8% " /></a>
 <!-- [![Twitter Badge](https://img.shields.io/badge/-NandanVyas-black?style=plastic-square&logo=twitter&logoColor=blue&link=https://twitter.com/NandanVyas)](https://twitter.com/NandanVyas) -->
 
 ### About Me 🚀
 - 🎓  Pursuing Bachelors in CSE at Thapar Institute Of Engineering And Technology. 
-- 👨‍💻  I am passionate about iOS App Development, Machine Learning, DevOps & I enjoy learning new things. 
-- 🌱  I’m currently exploring the world of Machine Learning and Data Science .
+
 - 👯  Always looking to collaborate on amazing projects! 
-- 💬  Feel free to reach out!
+- 💬   I love connecting with different people so if you want to say hi, I'll be happy to meet you more !!!
 
 ## 🖥 Technologies and Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -23,12 +22,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
-
+<!-- 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NandanVyas&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandanVyas&theme=dark&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandanVyas&theme=dark&hide=TeX&layout=compact) -->
 
  
- ### ⚙️ &nbsp;GitHub Analytics
+ <!-- ### ⚙️ &nbsp;GitHub Analytics
 <br>
 <a href="https://github.com/NandanVyas">
   <p align="center">
@@ -37,6 +36,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandanVyas&theme=dark&hide=TeX&layout=compact" alt="NandanVyas" style="width:40%;"/>
   </p>  
 </a>
-<br>
+<br> -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NandanVyas) &nbsp; [![Github](https://img.shields.io/github/followers/NandanVyas?label=Follow&style=social)](https://github.com/NandanVyas)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NandanVyas) &nbsp; [![Github](https://img.shields.io/github/followers/NandanVyas?label=Follow&style=social)](https://github.com/NandanVyas) -->
