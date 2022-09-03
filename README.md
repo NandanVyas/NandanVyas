@@ -2,8 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nv-nandanvyas/)](https://www.linkedin.com/in/nv-nandanvyas/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nandanvyas_/)](https://www.instagram.com/nandanvyas_/)
-<!-- [![Twitter Badge](https://img.shields.io/badge/-NandanVyas-black?style=plastic-square&logo=twitter&logoColor=blue&link=https://twitter.com/NandanVyas)](https://twitter.com/NandanVyas) -->
 <a href="mailto:nv.nandanvyas@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" width="110" /></a>
+<!-- [![Twitter Badge](https://img.shields.io/badge/-NandanVyas-black?style=plastic-square&logo=twitter&logoColor=blue&link=https://twitter.com/NandanVyas)](https://twitter.com/NandanVyas) -->
 
 ### About Me 🚀
 - 🎓  Pursuing Bachelors in CSE at Thapar Institute Of Engineering And Technology. 
@@ -13,18 +13,20 @@
 - 💬  Feel free to reach out!
 
 ## 🖥 Technologies and Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
-![Swift](https://img.shields.io/badge/-Swift-black?style=plastic&logo=swift) 
-![C](https://img.shields.io/badge/-C-black?style=plastic&logo=C) 
-![CPP](https://img.shields.io/badge/-C++-black?style=plastic&logo=C) 
-![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)\
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=plastic&logo=firebase)
-![Xcode](https://img.shields.io/badge/-Xcode-black?style=plastic&logo=xcode) 
-![CocoaPods](https://img.shields.io/badge/-Cocoapods-black?style=plastic&logo=Cocoapods)
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=NandanVyas&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=NandanVyas&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandanVyas&theme=dark&hide=TeX&layout=compact)
- -->
+
  
  ### ⚙️ &nbsp;GitHub Analytics
 <br>
